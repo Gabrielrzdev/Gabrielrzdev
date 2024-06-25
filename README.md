@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente sou estudante de Ciencia da Computação na Universidade Federal de Alfenas.
 - 🤔 Explorando novas tecnologias!!
-- 🌱 Ferramentas HTML, CSS, C e C++ e Type scripty.
+- ⚙️ Ferramentas HTML, CSS, C e C++ e Type scripty.
 
  ## 
   
